@@ -1,1 +1,3 @@
-2ºSemestre FEUP -> Exercícios das Práticas + Projetos
+# 2ºSemestre FEUP
+
+## Exercícios das Práticas + Projetos

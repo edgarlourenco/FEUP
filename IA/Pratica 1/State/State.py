@@ -53,5 +53,4 @@ class State :
     def __eq__(self, other):
         return self.balde1 == other.balde1 and self.max_balde1 == other.max_balde1 and self.balde2 == other.balde2 and self.max_balde2 == other.max_balde2
         
-    
             

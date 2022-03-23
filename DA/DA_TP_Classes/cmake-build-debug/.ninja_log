@@ -1,0 +1,20 @@
+# ninja log v5
+1	20	0	/Users/edgarlourenco/Desktop/Faculdade/2ºSemestre/DA/DA_TP_Classes/cmake-build-debug/CMakeFiles/cmake.verify_globs	7f705234ebc198ab
+0	1849	1647273983577152568	CMakeFiles/TP1.dir/main.cpp.o	4e2429b6e28eb5cb
+2	1943	1647273983670474941	CMakeFiles/TP1.dir/TP1/ex5.cpp.o	4298e475e6a52447
+1	1948	1647273983673318716	CMakeFiles/TP1.dir/TP1/ex2.cpp.o	e8c3d4970cc2d497
+0	1954	1647273983682329654	CMakeFiles/TP1.dir/TP1/ex1.cpp.o	82dbbcbad7d690f5
+1	1976	1647273983704525880	CMakeFiles/TP1.dir/TP1/ex4.cpp.o	fe5612fbb1352af8
+1	1989	1647273983718269650	CMakeFiles/TP1.dir/TP1/ex3.cpp.o	e2176f1c3d8432ed
+4	2121	1647273983849537435	lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	4118c70da2cc5d76
+2	2494	1647273984221511391	CMakeFiles/TP1.dir/TP1/ex7.cpp.o	fe236311708c096f
+2	2533	1647273984256844816	CMakeFiles/TP1.dir/TP1/ex6.cpp.o	72df19798c3cbc07
+1851	2804	1647273984537132668	lib/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	194cb339b41914a6
+3	2993	1647273984721858787	lib/googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	628c212bc55c9f89
+1943	5035	1647273986759979888	lib/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	325a6dd06102d06
+5036	5097	1647273986836781000	lib/libgtestd.a	dc2a295d2a5481aa
+5097	5138	1647273986877966000	lib/libgtest_maind.a	4426640b232c17b3
+5097	5149	1647273986888643000	lib/libgmockd.a	19725d22864fc11a
+5149	5185	1647273986924690000	lib/libgmock_maind.a	85887daed4806519
+5185	5304	1647273987036034830	TP1	2731e488a41ff1dd
+0	16	0	/Users/edgarlourenco/Desktop/Faculdade/2ºSemestre/DA/DA_TP_Classes/cmake-build-debug/CMakeFiles/cmake.verify_globs	7f705234ebc198ab

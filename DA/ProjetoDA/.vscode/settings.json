@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "__bit_reference": "cpp",
+        "__mutex_base": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "fstream": "cpp",
+        "sstream": "cpp",
+        "stack": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}

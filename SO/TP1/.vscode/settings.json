@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "stringpairlist.h": "c",
+        "utils.h": "c",
+        "string.h": "c"
+    }
+}
